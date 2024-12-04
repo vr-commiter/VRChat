@@ -6,18 +6,18 @@
 ### GetTrueGear Avatar
 
 **Open Community Lab**
-![](https://static.truegear.cn/VRChat/lib.gif)
+![](https://truegear.s3.bitiful.net/VRChat/1.gif)
 
 **Find TrueGear World**
-![](https://static.truegear.cn/VRChat/world.gif)
+![](https://truegear.s3.bitiful.net/VRChat/2.gif)
 
 **Change TrueGear Avatar**
-![](https://static.truegear.cn/VRChat/avatar.gif)
+![](https://truegear.s3.bitiful.net/VRChat/3.gif)
 
 ### Open Interactive Options
 
 **Open OSC**
-![](https://static.truegear.cn/VRChat/OSC.gif)
+![](https://truegear.s3.bitiful.net/VRChat/4.gif)
 
 **Open self-interaction**
-![](https://static.truegear.cn/VRChat/self.gif)
+![](https://truegear.s3.bitiful.net/VRChat/5.gif)
