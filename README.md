@@ -1,6 +1,6 @@
 ### Avatar Source
 
-https://booth.pm/zh-cn/items/1148939
+**Author** KarakuriPower https://booth.pm/zh-cn/items/1148939  
 
 ### Install TrueGearOSC Program
 
