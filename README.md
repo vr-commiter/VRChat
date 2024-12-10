@@ -1,3 +1,6 @@
+**Avatar Source**
+https://booth.pm/zh-cn/items/1148939
+
 ### Install TrueGearOSC Program
 
 **Click Install TrueGearOSC Program**
@@ -21,3 +24,4 @@
 
 **Enable self-interaction**
 ![](https://truegear.s3.bitiful.net/VRChat/5.gif)
+
